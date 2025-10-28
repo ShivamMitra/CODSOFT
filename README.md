@@ -35,7 +35,7 @@ Each notebook contains:
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 - Python 3.x  
 - Jupyter Notebook or JupyterLab  
 - Common ML/data science libraries: e.g., `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, maybe `tensorflow` or `keras` depending on notebook.
@@ -51,7 +51,7 @@ Each notebook contains:
    pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 (You may adjust this depending on the notebook’s needs.)
 
-3. Running Notebooks
+### Running Notebooks
 - Launch Jupyter:
   ```bash
   jupyter notebook
