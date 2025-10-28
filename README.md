@@ -1,3 +1,4 @@
+# CODSOFT-Internship Projects
 A collection of machine-learning notebooks for practical classification tasks — including credit-card fraud detection, movie-genre classification, SMS spam filtering, and more.
 
 ## Table of Contents
